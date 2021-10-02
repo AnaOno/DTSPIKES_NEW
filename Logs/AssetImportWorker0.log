@@ -821,3 +821,4 @@ Received Import Request.
 Start importing Assets/Sprites/ST_66.asset using Guid(de061537966e2e140b267491a447be0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c35519e43b7b3aa06aea9765cda1763') in 0.022098 seconds 
   Import took 0.036227 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
