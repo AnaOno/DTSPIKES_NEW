@@ -1,37 +1,49 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngineInternal;
 
 public class BolhaFlutua : MonoBehaviour
 {
     private Rigidbody2D _myRigidbody;
     [SerializeField] private Vector2 bolhaForce;
-   // private bool morreu;
-    
 
     void Start()
     {
-       _myRigidbody = GetComponent<Rigidbody2D>();
-        
+        _myRigidbody = GetComponent<Rigidbody2D>();
+
     }
 
     public void Flutua()
     {
-        //if (morreu)
-       // {
-           
-       // }
-
-       _myRigidbody.velocity = Vector2.zero;
-       _myRigidbody.AddForce(bolhaForce, ForceMode2D.Impulse);
+        _myRigidbody.velocity = Vector2.zero;
+        _myRigidbody.AddForce(bolhaForce, ForceMode2D.Impulse);
 
     }
-
-    //private void OnCollisionEnter2D(Collision2D other)
-   // {
-    //   if(other.gameObject.CompareTag("Death"))
-    //    {
-    //        Death();
-     //   }
-  //  }
+    public void Inverte()
+    {
+        void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Paredes")
+            {
+                bolhaForce.x *= 1;
+            }
+    }
 }
+
+    
+    public void OnCollisionEnter2D(Collision2D collision)
+    {
+     
+        if (collision.gameObject.tag == "CollidFixo")
+        {
+            UnityEngine.SceneManagement.SceneManager.LoadScene("GameOver");
+        }
+        
+    }
+
+     
+}
+
+      
+
