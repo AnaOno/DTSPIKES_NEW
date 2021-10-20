@@ -1,0 +1,2292 @@
+fileFormatVersion: 2
+guid: 83da10cc058b04b45a90a6750675d79a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4389552159398703017
+    second: Complementos_0
+  - first:
+      213: -3093095506177112179
+    second: Complementos_1
+  - first:
+      213: -999013296022102621
+    second: Complementos_2
+  - first:
+      213: 5971336002949957676
+    second: Complementos_3
+  - first:
+      213: -8359919368047107766
+    second: Complementos_4
+  - first:
+      213: -5436551755146464539
+    second: Complementos_5
+  - first:
+      213: -4056361189810997215
+    second: Complementos_6
+  - first:
+      213: 260122075804372823
+    second: Complementos_7
+  - first:
+      213: 2690382615675360660
+    second: Complementos_8
+  - first:
+      213: -3228058124663378827
+    second: Complementos_9
+  - first:
+      213: -145466072993209140
+    second: Complementos_10
+  - first:
+      213: -7486257025795021815
+    second: Complementos_11
+  - first:
+      213: 2814353883763580229
+    second: Complementos_12
+  - first:
+      213: 2813534093652975230
+    second: Complementos_13
+  - first:
+      213: -315881996032427503
+    second: Complementos_14
+  - first:
+      213: -518102140801463077
+    second: Complementos_15
+  - first:
+      213: -7098269362774073915
+    second: Complementos_16
+  - first:
+      213: -8419693099451649692
+    second: Complementos_17
+  - first:
+      213: 4087300091697278422
+    second: Complementos_18
+  - first:
+      213: -8992735996237595910
+    second: Complementos_19
+  - first:
+      213: -6352042387893491167
+    second: Complementos_20
+  - first:
+      213: -3459189035309568031
+    second: Complementos_21
+  - first:
+      213: 3795069765007327178
+    second: Complementos_22
+  - first:
+      213: 632242201958521005
+    second: Complementos_23
+  - first:
+      213: 4439102088451394088
+    second: Complementos_24
+  - first:
+      213: -5373545457977386294
+    second: Complementos_25
+  - first:
+      213: 3838064177886749975
+    second: Complementos_26
+  - first:
+      213: -1856117882100979510
+    second: Complementos_27
+  - first:
+      213: -5361337625631416715
+    second: Complementos_28
+  - first:
+      213: 8439677285935157108
+    second: Complementos_29
+  - first:
+      213: -2804593249805618730
+    second: Complementos_30
+  - first:
+      213: 4492465685494866185
+    second: Complementos_31
+  - first:
+      213: 5943159183744450053
+    second: Complementos_32
+  - first:
+      213: -4274344924247767355
+    second: Complementos_33
+  - first:
+      213: -228163967175037362
+    second: Complementos_34
+  - first:
+      213: 7320735601101813959
+    second: Complementos_35
+  - first:
+      213: -4696403953482979419
+    second: Complementos_36
+  - first:
+      213: -8948551905874076284
+    second: Complementos_37
+  - first:
+      213: -8577500216501437688
+    second: Complementos_38
+  - first:
+      213: -7049744604362660888
+    second: Complementos_39
+  - first:
+      213: -3494978687965485176
+    second: Complementos_40
+  - first:
+      213: 544911831294851186
+    second: Complementos_41
+  - first:
+      213: 8641445036115161329
+    second: Complementos_42
+  - first:
+      213: -8719479820432734470
+    second: Complementos_43
+  - first:
+      213: -5337671597407232298
+    second: Complementos_44
+  - first:
+      213: 4849753996049974868
+    second: Complementos_45
+  - first:
+      213: -6324223863018344036
+    second: Complementos_46
+  - first:
+      213: -4281105434408464011
+    second: Complementos_47
+  - first:
+      213: 6780917492951717453
+    second: Complementos_48
+  - first:
+      213: 4922755294873171699
+    second: Complementos_49
+  - first:
+      213: 9084771492050886415
+    second: Complementos_50
+  - first:
+      213: 11121732422602510
+    second: Complementos_51
+  - first:
+      213: 5076275659498895714
+    second: Complementos_52
+  - first:
+      213: -132616500277229784
+    second: Complementos_53
+  - first:
+      213: -3686801923862390779
+    second: Complementos_54
+  - first:
+      213: 7197504498233078418
+    second: Complementos_55
+  - first:
+      213: -3256196529260472814
+    second: Complementos_56
+  - first:
+      213: -3315949712461280589
+    second: Complementos_57
+  - first:
+      213: 7315314604366833505
+    second: Complementos_58
+  - first:
+      213: -3251413911079199033
+    second: Complementos_59
+  - first:
+      213: -8597658158153433447
+    second: Complementos_60
+  - first:
+      213: 2107228247065752647
+    second: Complementos_61
+  - first:
+      213: 4289903093320444252
+    second: Complementos_62
+  - first:
+      213: 8518017268726948671
+    second: Complementos_63
+  - first:
+      213: -5268992424730660318
+    second: Complementos_64
+  - first:
+      213: 7358627608663708437
+    second: Complementos_65
+  - first:
+      213: -3729446089637683536
+    second: Complementos_66
+  - first:
+      213: 6844220324165999219
+    second: Complementos_67
+  - first:
+      213: -7417864198992029687
+    second: Complementos_68
+  - first:
+      213: 1131523154881256313
+    second: Complementos_69
+  - first:
+      213: 1106427241674383879
+    second: Complementos_70
+  - first:
+      213: -141346783871803311
+    second: Complementos_71
+  - first:
+      213: 2178642912202265392
+    second: Complementos_72
+  - first:
+      213: 8022915390317688014
+    second: Complementos_73
+  - first:
+      213: 4359734344663188481
+    second: Complementos_74
+  - first:
+      213: -6765165709075718833
+    second: Complementos_75
+  - first:
+      213: -7969374380535215319
+    second: Complementos_76
+  - first:
+      213: 1723897087446944532
+    second: Complementos_77
+  - first:
+      213: -5952694888648674879
+    second: Complementos_78
+  - first:
+      213: -2277930418442031232
+    second: Complementos_79
+  - first:
+      213: 2858395795505320013
+    second: Complementos_80
+  - first:
+      213: 2179116096084474242
+    second: Complementos_81
+  - first:
+      213: 7431864241969821248
+    second: Complementos_82
+  - first:
+      213: -6080691246490826283
+    second: Complementos_83
+  - first:
+      213: -8321456130729869439
+    second: Complementos_84
+  - first:
+      213: 1416761322600910271
+    second: Complementos_85
+  - first:
+      213: 9129898841843450848
+    second: Complementos_86
+  - first:
+      213: 3102598943979474630
+    second: Complementos_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Complementos_0
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1025
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af2200ae62daec30800000000000000
+      internalID: 4389552159398703017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1025
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87c4f9660e1315d0800000000000000
+      internalID: -3093095506177112179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1025
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3add5b443bac222f0800000000000000
+      internalID: -999013296022102621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_3
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1025
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28455a05727ed250800000000000000
+      internalID: 5971336002949957676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_4
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1025
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41e4a4a0a99bfb80800000000000000
+      internalID: -8359919368047107766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1025
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2f7779bfc7d84b0800000000000000
+      internalID: -5436551755146464539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 925
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12872a84df8e4b7c0800000000000000
+      internalID: -4056361189810997215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 925
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f8e8656a32c9300800000000000000
+      internalID: 260122075804372823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 925
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49557351cb8265520800000000000000
+      internalID: 2690382615675360660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 925
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c20251d32a333d0800000000000000
+      internalID: -3228058124663378827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 925
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc46e5890633bfdf0800000000000000
+      internalID: -145466072993209140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 825
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904273026e87b1890800000000000000
+      internalID: -7486257025795021815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 825
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d18f932f79e0720800000000000000
+      internalID: 2814353883763580229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 825
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ed2a7f95eab0720800000000000000
+      internalID: 2813534093652975230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 825
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11abb8b8ff2cd9bf0800000000000000
+      internalID: -315881996032427503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 825
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcc82419d45fc8f0800000000000000
+      internalID: -518102140801463077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 825
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd10df6f91ed7d90800000000000000
+      internalID: -7098269362774073915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_17
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 825
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46170694cbd372b80800000000000000
+      internalID: -8419693099451649692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 725
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dda90827c109b830800000000000000
+      internalID: 4087300091697278422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_19
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 725
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afab369c142633380800000000000000
+      internalID: -8992735996237595910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 725
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a626f4a1309d7a0800000000000000
+      internalID: -6352042387893491167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_21
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 725
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef627366ed7effc0800000000000000
+      internalID: -3459189035309568031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf361918dbcaa430800000000000000
+      internalID: 3795069765007327178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 625
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da89fb3deec26c800800000000000000
+      internalID: 632242201958521005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 625
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a07df74dbda9d30800000000000000
+      internalID: 4439102088451394088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 625
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca18d050e45d65b0800000000000000
+      internalID: -5373545457977386294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 625
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715671ce80b834530800000000000000
+      internalID: 3838064177886749975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 625
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8ee10de9ebd36e0800000000000000
+      internalID: -1856117882100979510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_28
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 625
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e9d47c5d3b895b0800000000000000
+      internalID: -5361337625631416715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 625
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f0917b6c1cf1570800000000000000
+      internalID: 8439677285935157108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_30
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 625
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1b0e57c451419d0800000000000000
+      internalID: -2804593249805618730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_31
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 625
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901ad852db1785e30800000000000000
+      internalID: 4492465685494866185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e30b61ac75a7250800000000000000
+      internalID: 5943159183744450053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 525
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6c7b610f97ea4c0800000000000000
+      internalID: -4274344924247767355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 525
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eecf9a41665dcf0800000000000000
+      internalID: -228163967175037362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 525
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8ba360e3a789560800000000000000
+      internalID: 7320735601101813959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 525
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a728e6ac7503deb0800000000000000
+      internalID: -4696403953482979419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 525
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d1b3cf37b50d380800000000000000
+      internalID: -8948551905874076284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_38
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 525
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b7896aff896f880800000000000000
+      internalID: -8577500216501437688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 525
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3acbb22a64a2e90800000000000000
+      internalID: -7049744604362660888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_40
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 525
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887a14686675f7fc0800000000000000
+      internalID: -3494978687965485176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 525
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278bc3a6c6aef8700800000000000000
+      internalID: 544911831294851186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_42
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 525
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0f4bbd9749ce770800000000000000
+      internalID: 8641445036115161329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 525
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af68be41d4f2ef680800000000000000
+      internalID: -8719479820432734470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 425
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de99dc56f7cce5b0800000000000000
+      internalID: -5337671597407232298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 425
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45607967099cd4340800000000000000
+      internalID: 4849753996049974868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_46
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 425
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c913ebc57e7db38a0800000000000000
+      internalID: -6324223863018344036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_47
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 425
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571d6182a457694c0800000000000000
+      internalID: -4281105434408464011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_48
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 425
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d469e927888aa1e50800000000000000
+      internalID: 6780917492951717453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_49
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 425
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6b61bdbd3215440800000000000000
+      internalID: 4922755294873171699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_50
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 425
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fd941f987931e70800000000000000
+      internalID: 9084771492050886415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_51
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 325
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f065e1823872000800000000000000
+      internalID: 11121732422602510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_52
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 325
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269b46a21dd827640800000000000000
+      internalID: 5076275659498895714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_53
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 325
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827ce91eef9d82ef0800000000000000
+      internalID: -132616500277229784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 325
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50894fa0f29d5dcc0800000000000000
+      internalID: -3686801923862390779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_55
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 325
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2927576053ca2e360800000000000000
+      internalID: 7197504498233078418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_56
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 325
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216d19a328aafc2d0800000000000000
+      internalID: -3256196529260472814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_57
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 325
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bacfaf1e416bf1d0800000000000000
+      internalID: -3315949712461280589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_58
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 325
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167238ddfd7358560800000000000000
+      internalID: 7315314604366833505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce5c5c4648a0e2d0800000000000000
+      internalID: -3251413911079199033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 225
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e760f157bfea880800000000000000
+      internalID: -8597658158153433447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 225
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744f5071de06e3d10800000000000000
+      internalID: 2107228247065752647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 225
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59e63e622cc88b30800000000000000
+      internalID: 4289903093320444252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 225
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33ec155393163670800000000000000
+      internalID: 8518017268726948671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_64
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 225
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22274b75e47c0e6b0800000000000000
+      internalID: -5268992424730660318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_65
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 225
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51358c882d81f1660800000000000000
+      internalID: 7358627608663708437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_66
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 225
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be1d2a7a885e3cc0800000000000000
+      internalID: -3729446089637683536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_67
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 225
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a5c626f1e8bfe50800000000000000
+      internalID: 6844220324165999219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_68
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 225
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9081ef200d37e0990800000000000000
+      internalID: -7417864198992029687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b93d5705af3bf00800000000000000
+      internalID: 1131523154881256313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 125
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70221d5d6b1da5f00800000000000000
+      internalID: 1106427241674383879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_71
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 125
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1506d2559d5d90ef0800000000000000
+      internalID: -141346783871803311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_72
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 125
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0331d3a8f281c3e10800000000000000
+      internalID: 2178642912202265392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 125
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec476ee4a0f175f60800000000000000
+      internalID: 8022915390317688014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_74
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 125
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10448b0a943e08c30800000000000000
+      internalID: 4359734344663188481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_75
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 125
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d53e781ad4d12a0800000000000000
+      internalID: -6765165709075718833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_76
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 125
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b89167938176190800000000000000
+      internalID: -7969374380535215319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_77
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 125
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b0b9674438ce710800000000000000
+      internalID: 1723897087446944532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_78
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 125
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1ffc99987c36da0800000000000000
+      internalID: -5952694888648674879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_79
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 125
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fa4b97a5a2360e0800000000000000
+      internalID: -2277930418442031232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_80
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 125
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d409092e4df0ba720800000000000000
+      internalID: 2858395795505320013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_81
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 25
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289737f3b86cd3e10800000000000000
+      internalID: 2179116096084474242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_82
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 25
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046f9810729432760800000000000000
+      internalID: 7431864241969821248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_83
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 25
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d94618378b0d9ba0800000000000000
+      internalID: -6080691246490826283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_84
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 25
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f79d1fcbf348c80800000000000000
+      internalID: -8321456130729869439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_85
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 25
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc325aae859a310800000000000000
+      internalID: 1416761322600910271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_86
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 25
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e34457df9ae3be70800000000000000
+      internalID: 9129898841843450848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complementos_87
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 25
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce06602d45ae0b20800000000000000
+      internalID: 3102598943979474630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
