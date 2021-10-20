@@ -123,38 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &9793040
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 9793041}
-  m_Layer: 0
-  m_Name: ColisoresLaterais
-  m_TagString: Paredes
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &9793041
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9793040}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1722140481}
-  - {fileID: 795784205}
-  m_Father: {fileID: 0}
-  m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &67750719
 GameObject:
   m_ObjectHideFlags: 0
@@ -1519,7 +1487,7 @@ GameObject:
   - component: {fileID: 795784206}
   m_Layer: 0
   m_Name: ColisorLateral (1)
-  m_TagString: Paredes
+  m_TagString: ParedeE
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1535,8 +1503,8 @@ Transform:
   m_LocalPosition: {x: -3.27, y: 4.48, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 9793041}
-  m_RootOrder: 1
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &795784206
 BoxCollider2D:
@@ -1764,7 +1732,7 @@ GameObject:
   - component: {fileID: 1722140480}
   m_Layer: 0
   m_Name: ColisorLateral
-  m_TagString: Paredes
+  m_TagString: ParedeD
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1806,8 +1774,8 @@ Transform:
   m_LocalPosition: {x: 3.14, y: 4.48, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 9793041}
-  m_RootOrder: 0
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1744588342
 GameObject:
@@ -1933,6 +1901,42 @@ MonoBehaviour:
         - m_Target: {fileID: 2082195146}
           m_TargetAssemblyTypeName: BolhaFlutua, Assembly-CSharp
           m_MethodName: Flutua
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 2082195146}
+          m_TargetAssemblyTypeName: BolhaFlutua, Assembly-CSharp
+          m_MethodName: InverteD
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 2082195146}
+          m_TargetAssemblyTypeName: BolhaFlutua, Assembly-CSharp
+          m_MethodName: InverteE
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 2082195146}
+          m_TargetAssemblyTypeName: BolhaFlutua, Assembly-CSharp
+          m_MethodName: Inicio
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -2109,7 +2113,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e562f44615a0c9a479416f4d4fde2dd0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  bolhaForceInicio: {x: 3, y: 7}
   bolhaForce: {x: 2, y: 7}
+  bolhaForceInvert: {x: -2, y: 7}
+  Flutuar: 0
+  B: 1
 --- !u!50 &2082195147
 Rigidbody2D:
   serializedVersion: 4

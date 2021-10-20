@@ -5,8 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - CollidFixo
-  - Paredes
   - PowerUp
+  - ParedeD
+  - ParedeE
   layers:
   - Default
   - TransparentFX
