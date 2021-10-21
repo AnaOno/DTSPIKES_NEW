@@ -10,7 +10,9 @@ public class BolhaFlutua : MonoBehaviour
     [SerializeField] private Vector2 bolhaForce;
     [SerializeField] private Vector2 bolhaForceInvert;
     public bool Flutuar;
+    public bool PowerUp;
     public bool B = true;
+
 
     void Start()
     {
@@ -44,6 +46,8 @@ public class BolhaFlutua : MonoBehaviour
         }
     }
        
+    
+
     public void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "ParedeE")
@@ -56,12 +60,24 @@ public class BolhaFlutua : MonoBehaviour
         }
         if (collision.gameObject.tag == "CollidFixo")
         {
-            UnityEngine.SceneManagement.SceneManager.LoadScene("GameOver");
+            if (PowerUp == true)
+            {
+                PowerUp = false;
+            }
+            else
+            {
+                UnityEngine.SceneManagement.SceneManager.LoadScene("GameOver");
+            }
         }
         
     }
-
-     
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "PowerUp")
+        {
+            PowerUp = true;
+        }
+    }
 }
 
       

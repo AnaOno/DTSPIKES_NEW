@@ -10,6 +10,7 @@ TagManager:
   - ParedeE
   - Enemy
   - Pontuacao
+  - Limite
   layers:
   - Default
   - TransparentFX
