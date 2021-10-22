@@ -6,7 +6,7 @@ using UnityEngine.UI;
   public class Pontuacao : MonoBehaviour
 {
     public Text Score;
-    private int Soma;
+    public int Soma;
     public float TempoR;
     public GameObject Ponto;
 
