@@ -73,6 +73,7 @@ public class BolhaFlutua : MonoBehaviour
             if (PowerUp == true)
             {
                 PowerUp = false;
+                this.gameObject.GetComponent<SpriteRenderer>().sprite = SemPower;
             }
             else
             {
@@ -87,6 +88,7 @@ public class BolhaFlutua : MonoBehaviour
             if (PowerUp == true)
             {
                 PowerUp = false;
+                this.gameObject.GetComponent<SpriteRenderer>().sprite = SemPower;
             }
             else
             {

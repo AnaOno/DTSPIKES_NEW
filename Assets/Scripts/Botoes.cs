@@ -36,6 +36,12 @@ public class Botoes : MonoBehaviour
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("Game");
     }
+
+    public void Credits()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Creditos");
+    }
+
     public void Sair()
     {
         Application.Quit();

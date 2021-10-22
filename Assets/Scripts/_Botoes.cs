@@ -9,6 +9,11 @@ public class _Botoes : MonoBehaviour
         UnityEngine.SceneManagement.SceneManager.LoadScene("Game");
     }
 
+    public void Home()
+    {
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Menu");
+    }
+
     public void Sair()
     {
         Application.Quit();

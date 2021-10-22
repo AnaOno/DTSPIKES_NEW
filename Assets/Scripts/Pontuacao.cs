@@ -6,6 +6,7 @@ using UnityEngine.UI;
   public class Pontuacao : MonoBehaviour
 {
     public Text Score;
+    public Text highScore;
     public int Soma;
     public float TempoR;
     public GameObject Ponto;
@@ -15,6 +16,7 @@ using UnityEngine.UI;
         Soma = 0;
         Ponto = GameObject.Find("Pontuacao");
         Ponto.transform.position = new Vector2(Random.Range(-2, 2), Random.Range(4, -5));
+        highScore.text = PlayerPrefs.GetInt("HighScore", 0).ToString();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -37,5 +39,7 @@ using UnityEngine.UI;
     private void Update()
     {
         Score.text = Soma.ToString();
+        PlayerPrefs.SetInt("HighScore", Soma);
+        DontDestroyOnLoad(highScore);
     }
 }
