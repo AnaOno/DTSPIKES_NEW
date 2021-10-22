@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PowerUp : MonoBehaviour
 {
+
     void Start()
     {
         transform.position = new Vector2(Random.Range(-2, 2), 7);

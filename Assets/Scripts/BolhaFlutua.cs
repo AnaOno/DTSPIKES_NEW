@@ -12,7 +12,7 @@ public class BolhaFlutua : MonoBehaviour
     public bool Flutuar;
     public bool PowerUp;
     public bool B = true;
-
+    
 
     void Start()
     {
@@ -28,6 +28,7 @@ public class BolhaFlutua : MonoBehaviour
             B = false;
             _myRigidbody.velocity = Vector2.zero;
             _myRigidbody.AddForce(bolhaForceInicio, ForceMode2D.Impulse);
+            FindObjectOfType<Som>().Play("PuloPlayer");
         }
         
     }
@@ -38,11 +39,16 @@ public class BolhaFlutua : MonoBehaviour
         {
             _myRigidbody.velocity = Vector2.zero;
             _myRigidbody.AddForce(bolhaForce, ForceMode2D.Impulse);
+            FindObjectOfType<Som>().Play("PuloPlayer");
+            
         }
         else
         {
             _myRigidbody.velocity = Vector2.zero;
             _myRigidbody.AddForce(bolhaForceInvert, ForceMode2D.Impulse);
+            FindObjectOfType<Som>().Play("PuloPlayer");
+
+
         }
     }
        
@@ -67,6 +73,7 @@ public class BolhaFlutua : MonoBehaviour
             else
             {
                 UnityEngine.SceneManagement.SceneManager.LoadScene("GameOver");
+                FindObjectOfType<Som>().Play("MortePlayer");
             }
         }
         
@@ -76,6 +83,7 @@ public class BolhaFlutua : MonoBehaviour
         if (collision.gameObject.tag == "PowerUp")
         {
             PowerUp = true;
+            FindObjectOfType<Som>().Play("PowerPlayer");
         }
     }
 }
