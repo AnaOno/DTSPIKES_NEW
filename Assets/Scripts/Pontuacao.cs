@@ -19,16 +19,12 @@ using UnityEngine.UI;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        //if (collision.CompareTag("PowerUp") == true)
-        //{
-         //  BolhaFlutua
-        //}
-
-
+       
         if (collision.CompareTag("Pontuacao") == true)
         {
             Soma = Soma + 1;
             Spawnar();
+            FindObjectOfType<Som>().Play("PontoPlayer");
         }
     }
 

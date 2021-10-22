@@ -14,14 +14,22 @@ public class PowerUp : MonoBehaviour
     {
         if (collision.tag.Equals("Limite") == true)
         {
+            StartCoroutine(Delay());
+            transform.position = new Vector3(Random.Range(-2, 2), 6, 0);
+            GetComponent<Rigidbody2D>().velocity = Vector2.zero;
+        }
+
+        if (collision.gameObject.tag == "Player")
+        {
+            StartCoroutine(Delay());
             transform.position = new Vector3(Random.Range(-2, 2), 6, 0);
             GetComponent<Rigidbody2D>().velocity = Vector2.zero;
         }
     }
-
-
-    void Update()
+    
+    public IEnumerator Delay()
     {
-        
+        yield return new WaitForSeconds(2f);
     }
+   
 }

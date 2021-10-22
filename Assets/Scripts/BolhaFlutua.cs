@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 
 public class BolhaFlutua : MonoBehaviour
@@ -11,8 +12,10 @@ public class BolhaFlutua : MonoBehaviour
     [SerializeField] private Vector2 bolhaForceInvert;
     public bool Flutuar;
     public bool PowerUp;
+    public Sprite ComPower;
+    public Sprite SemPower;
     public bool B = true;
-    
+        
 
     void Start()
     {
@@ -29,6 +32,7 @@ public class BolhaFlutua : MonoBehaviour
             _myRigidbody.velocity = Vector2.zero;
             _myRigidbody.AddForce(bolhaForceInicio, ForceMode2D.Impulse);
             FindObjectOfType<Som>().Play("PuloPlayer");
+            this.gameObject.GetComponent<SpriteRenderer>().sprite = SemPower;
         }
         
     }
@@ -47,12 +51,11 @@ public class BolhaFlutua : MonoBehaviour
             _myRigidbody.velocity = Vector2.zero;
             _myRigidbody.AddForce(bolhaForceInvert, ForceMode2D.Impulse);
             FindObjectOfType<Som>().Play("PuloPlayer");
-
+           
 
         }
     }
        
-    
 
     public void OnCollisionEnter2D(Collision2D collision)
     {
@@ -64,6 +67,7 @@ public class BolhaFlutua : MonoBehaviour
         {
             Flutuar = false;
         }
+
         if (collision.gameObject.tag == "CollidFixo")
         {
             if (PowerUp == true)
@@ -74,6 +78,21 @@ public class BolhaFlutua : MonoBehaviour
             {
                 UnityEngine.SceneManagement.SceneManager.LoadScene("GameOver");
                 FindObjectOfType<Som>().Play("MortePlayer");
+                this.gameObject.GetComponent<SpriteRenderer>().sprite = SemPower;
+            }
+        }
+
+        if (collision.gameObject.tag == "Enemy")
+        {
+            if (PowerUp == true)
+            {
+                PowerUp = false;
+            }
+            else
+            {
+                UnityEngine.SceneManagement.SceneManager.LoadScene("GameOver");
+                FindObjectOfType<Som>().Play("MortePlayer");
+                this.gameObject.GetComponent<SpriteRenderer>().sprite = SemPower;
             }
         }
         
@@ -84,7 +103,13 @@ public class BolhaFlutua : MonoBehaviour
         {
             PowerUp = true;
             FindObjectOfType<Som>().Play("PowerPlayer");
+            this.gameObject.GetComponent<SpriteRenderer>().sprite = ComPower;
         }
+    }
+
+    public IEnumerable Delay()
+    {
+        yield return new WaitForSeconds(2f);
     }
 }
 
